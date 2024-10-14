@@ -34,7 +34,7 @@ The following figure presents the flowchart of the proposed Class Attention, wit
 ![Alt text](https://github.com/nmvbxcz/LLPCA/blob/main/CA.png?raw=true)
 
 
-The following figure presents the classification maps from the proposed LLPCA on the three HSIs data.
+The following figures present the classification maps from the proposed LLPCA and the comparitive models on the three HSIs data.
 
 Indian Pines:
 
