@@ -52,6 +52,6 @@ HongHu:
 
 
 ## Tables:
-To further assess the performance of LLPCA in data sets with highly imbalanced class distributions such as the Indian Pines data, different sampling methods are adopted to create training data. The following table presents the experimental results of LLPCA on imbalanced samples, using the Indian Pines dataset as an example. It is clear that for some categories with limited training data such as Alfalfa, Grass-pasture-mowed, Oats and Stone-Steel-Towers, the proposed models show high , which means that LLPCA can efficiently propagate label information in local areas even when there are limited labeled data on some imbalanced classes.
+To further assess the performance of LLPCA in data sets with highly imbalanced class distributions such as the Indian Pines data, different sampling methods are adopted to create training data. The following table presents the experimental results of LLPCA on imbalanced samples, using the Indian Pines dataset as an example. It is clear that for some categories with limited training data such as Alfalfa, Grass-pasture-mowed, Oats and Stone-Steel-Towers, the proposed models show high AAs, which means that LLPCA can efficiently propagate label information in local areas even when there are limited labeled data on some imbalanced classes.
 
 ![Alt text](https://github.com/nmvbxcz/LLPCA/blob/main/imbalanced_samples.png?raw=true)
