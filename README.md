@@ -1,3 +1,6 @@
+Code for the paper Local Label Propagation with Class Attention for Effective and Efficient Hyperspectral Images Classification submitted to IEEE GRSL
+
+
 # LLPCA
 - Local Label Propagation (LLP).
 - Local Label Propagation with Class Attention (LLPCA).
@@ -14,26 +17,24 @@ For example, when DataSet Indianpines takes 5-30 training sample points for each
 - LLP("Indianpines",[5,10,15,20,25,30],2);
 - LLPCA("Indianpines",[5,10,15,20,25,30],1,10);
 
-## Algorithm:
-Pseudocode: The following figure illustrates the Pseudocode of the LLPCA.
-
-![Alt text](https://github.com/nmvbxcz/LLPCA/blob/main/LLPCA_Alg.png?raw=true)
 
 ## Images:
-LLPCA progress: The following figure illustrates the complete algorithmic process of LLPCA.
+The following figure illustrates the process of the proposed LLPCA.
 
 ![Alt text](https://github.com/nmvbxcz/LLPCA/blob/main/LLPCA_progress.png?raw=true)
 
 
-Local Label Propagation: The following figure illustrates the label propagation in different scenarios of LLP, corresponding to: (1) no labeled samples in the local area, (2) labeled samples present in the local area, and (3) no labeled samples in the local area, but labeled samples present within the local areas of neighboring samples.
+The following figure illustrates the label propagation in different scenarios of the proposed LLP, corresponding to: (1) no labeled samples in the local area, (2) labeled samples present in the local area, and (3) no labeled samples in the local area, but labeled samples present within the local areas of neighboring samples.
 
 ![Alt text](https://github.com/nmvbxcz/LLPCA/blob/main/LLP.png?raw=true)
 
 
-Class Attention: The following figure presents the flowchart of CA generation, with an example shown for K=4.
+The following figure presents the flowchart of the proposed Class Attention, with an example shown for K=4.
 
 ![Alt text](https://github.com/nmvbxcz/LLPCA/blob/main/CA.png?raw=true)
 
+
+The following figure presents the classification maps from the proposed LLPCA on the three HSIs data.
 
 Indian Pines:
 
@@ -51,6 +52,6 @@ HongHu:
 
 
 ## Tables:
-Imbalanced Samples Test: The following Table presents the experimental results of LLPCA on imbalanced samples, using the Indian Pines dataset as an example.
+The following table presents the experimental results of LLPCA on imbalanced samples, using the Indian Pines dataset as an example.
 
 ![Alt text](https://github.com/nmvbxcz/LLPCA/blob/main/imbalanced_samples.png?raw=true)
