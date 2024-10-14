@@ -29,7 +29,7 @@ The following figure illustrates the label propagation in different scenarios of
 ![Alt text](https://github.com/nmvbxcz/LLPCA/blob/main/LLP.png?raw=true)
 
 
-The following figure presents the flowchart of the proposed Class Attention, with an example shown for K=4.
+The following figure presents the flowchart of the idea of Class Attention, with an example shown for K=4. First, we obtain the coarse classification results based on SVM, then we pick the top one-third of the maximum value or top K elements based on the threshold to filter the categories allowed for propagation and generate class attention.
 
 ![Alt text](https://github.com/nmvbxcz/LLPCA/blob/main/CA.png?raw=true)
 
