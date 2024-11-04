@@ -1,4 +1,4 @@
-Code for the paper Local Label Propagation with Class Attention for Effective and Efficient Hyperspectral Images Classification submitted to IEEE GRSL
+Code for the paper Local Label Propagation with Class Attention for Effective and Efficient Hyperspectral Images Classification submitted to IEEE SPL
 
 
 # LLPCA
