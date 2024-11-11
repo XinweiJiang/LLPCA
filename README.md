@@ -21,12 +21,12 @@ For example, when DataSet Indianpines takes 5-30 training sample points for each
 ## Images:
 The following figure illustrates the process of the proposed LLPCA.
 
-![Alt text](https://github.com/nmvbxcz/LLPCA/blob/main/LLPCA_progress.png?raw=true)
+![Alt text](https://github.com/xinweijiang/LLPCA/blob/main/LLPCA_progress.png?raw=true)
 
 
 The following figure illustrates the process of the proposed LLPCA.
 
-![Alt text](https://github.com/nmvbxcz/LLPCA/blob/main/LLPCA_Alg.png?raw=true)
+![Alt text](https://github.com/xinweijiang/LLPCA/blob/main/LLPCA_Alg.png?raw=true)
 
 
 The following figure illustrates the label propagation in different scenarios of the proposed LLP, corresponding to: (1) no labeled samples in the local area, (2) labeled samples present in the local area, and (3) no labeled samples in the local area, but labeled samples present within the local areas of neighboring samples.
