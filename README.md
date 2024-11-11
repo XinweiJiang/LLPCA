@@ -19,7 +19,7 @@ For example, when DataSet Indianpines takes 5-30 training sample points for each
 
 
 ## Images:
-The following figure illustrates the process of the proposed LLPCA.
+The following figure illustrates the flowchat of the proposed LLPCA.
 
 ![Alt text](https://github.com/xinweijiang/LLPCA/blob/main/LLPCA_progress.png?raw=true)
 
