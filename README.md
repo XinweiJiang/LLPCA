@@ -24,7 +24,7 @@ The following figure illustrates the process of the proposed LLPCA.
 ![Alt text](https://github.com/xinweijiang/LLPCA/blob/main/LLPCA_progress.png?raw=true)
 
 
-The following figure illustrates the process of the proposed LLPCA.
+The following figure illustrates the pseudocode of the proposed LLPCA.
 
 ![Alt text](https://github.com/xinweijiang/LLPCA/blob/main/LLPCA_Alg.png?raw=true)
 
